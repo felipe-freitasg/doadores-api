@@ -13,7 +13,6 @@ const router = express.Router();
 
 const jwt = require('jsonwebtoken');
 
-const SECRET = '&$2.^8%Lg!q}$kM6b3uX';
 
 
 
